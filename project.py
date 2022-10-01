@@ -1,5 +1,4 @@
-from funcoes import *
-from re import A 
+from functions import *
 import sys
 import time
 from random import *

@@ -1,5 +1,4 @@
 from random import *
-from re import A 
 import sys
 import time
 
